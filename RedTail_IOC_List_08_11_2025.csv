@@ -1,0 +1,54 @@
+HoneyPot,Type,Indicator,Date Observed,Threat,Purpose,ASN,GeoIP,JA4+ Fingerprint,Related Hashes
+SonicWall (Adam),IP,134.209.157.35,03/11/2025,RedTail,Exploit Source,"AS14061 - DigitalOcean, LLC (DO-13)
+
+",USA,,
+SonicWall (Adam),IP,185.85.205.122,03/11/2025,RedTail,Exploit Source,AS201079 - HC3199-RIPE,Turkey,,
+SonicWall (Adam),IP,197.220.93.100,03/11/2025,RedTail,Exploit Source,AS37371 - AHA3-AFRINIC,Somalia,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,204.44.119.241,03/11/2025,RedTail,Exploit Source,"AS136258 - BrainStorm Network, Inc",USA,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,43.252.231.122,03/11/2025,RedTail,Exploit Source,AS55933 - Cloudie Limited,Hong Kong,,
+SonicWall (Adam),IP,115.190.179.142,04/11/2025,RedTail,Exploit Source,AS137718 - YW7147-AP - gnoc@bytedance.com,China,,
+SonicWall (Adam),IP,158.220.115.215,04/11/2025,RedTail,Exploit Source,"AS51167 - MH7476-RIPE
+
+",Germany,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,188.166.166.243,04/11/2025,RedTail,Exploit Source,"AS14061 - PT7353-RIPE
+
+",Germany,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,216.10.250.218,04/11/2025,RedTail,Exploit Source,AS394695 - PUBLIC-DOMAIN-REGISTRY,India,,
+Citrix (Nico),IP,122.97.101.53,05/11/2025,RedTail,Exploit Source,AS4837 - CHINA UNICOM China169 Backbone,China,t13i170900_5b57614c22b0_78e6aca7449b,
+Citrix (Nico),IP,178.16.55.224,05/11/2025,RedTail,Payload Host,"AS209800 - metaspinner net GmbH
+",USA,,
+Citrix (Nico),IP,198.98.53.110,05/11/2025,RedTail,Exploit Source,AS53667 - FranTech Solutions,USA,,
+Citrix (Nico),URL,http://178.16.55.224/sh,05/11/2025,RedTail,Payload Host,"AS209800 - metaspinner net GmbH
+",USA,,07b1d426ba3024b72a10fc7267675a6fb3a9a239565733f0f5166aadbb1594b1
+PAN (Nico),IP,128.14.227.179,07/11/2025,RedTail,Exploit Source,AS135377 - UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Taiwan,t13i170900_5b57614c22b0_78e6aca7449b,
+PAN (Nico),IP,154.26.155.56,07/11/2025,RedTail,Exploit Source,AS141995 - Contabo Asia Private Limited,Australia,t13i170900_5b57614c22b0_78e6aca7449b,
+PAN (Nico),IP,46.101.83.206,07/11/2025,RedTail,Exploit Source,"AS14061 - DigitalOcean, LLC",UK,t13i170900_5b57614c22b0_78e6aca7449b,
+PAN (Nico),IP,8.213.148.191,07/11/2025,RedTail,Exploit Source,"AS45102 - Alibaba (US) Technology Co., Ltd.",South Korea,t13i170900_5b57614c22b0_78e6aca7449b,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
